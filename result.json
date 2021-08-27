@@ -1,0 +1,1502 @@
+[
+    {
+        "Title": "Bitcoin",
+        "Mkt_Cap": "874.113B",
+        "FD_Mkt_Cap": "976.489B",
+        "LAST": "46499.46",
+        "Avail_Coins": "18.798M",
+        "Total_Coins": "21.000M",
+        "Traded_Vol": "32.668B",
+        "Chg": "-0.68%"
+    },
+    {
+        "Title": "Ethereum",
+        "Mkt_Cap": "359.558B",
+        "FD_Mkt_Cap": "359.558B",
+        "LAST": "3066.09",
+        "Avail_Coins": "117.269M",
+        "Total_Coins": "117.269M",
+        "Traded_Vol": "17.411B",
+        "Chg": "-0.90%"
+    },
+    {
+        "Title": "Cardano",
+        "Mkt_Cap": "80.526B",
+        "FD_Mkt_Cap": "112.727B",
+        "LAST": "2.51",
+        "Avail_Coins": "32.145B",
+        "Total_Coins": "45.000B",
+        "Traded_Vol": "6.540B",
+        "Chg": "-0.88%"
+    },
+    {
+        "Title": "Binance Coin",
+        "Mkt_Cap": "79.217B",
+        "FD_Mkt_Cap": "79.217B",
+        "LAST": "471.14",
+        "Avail_Coins": "168.137M",
+        "Total_Coins": "168.137M",
+        "Traded_Vol": "3.281B",
+        "Chg": "-1.49%"
+    },
+    {
+        "Title": "Tether",
+        "Mkt_Cap": "65.510B",
+        "FD_Mkt_Cap": "67.432B",
+        "LAST": "1.00",
+        "Avail_Coins": "65.512B",
+        "Total_Coins": "67.434B",
+        "Traded_Vol": "75.322B",
+        "Chg": "-0.02%"
+    },
+    {
+        "Title": "XRP",
+        "Mkt_Cap": "49.161B",
+        "FD_Mkt_Cap": "105.691B",
+        "LAST": "1.06",
+        "Avail_Coins": "46.514B",
+        "Total_Coins": "100.000B",
+        "Traded_Vol": "4.915B",
+        "Chg": "-1.22%"
+    },
+    {
+        "Title": "Dogecoin",
+        "Mkt_Cap": "34.825B",
+        "FD_Mkt_Cap": "34.825B",
+        "LAST": "0.27",
+        "Avail_Coins": "131.023B",
+        "Total_Coins": "131.023B",
+        "Traded_Vol": "2.411B",
+        "Chg": "-0.97%"
+    },
+    {
+        "Title": "HEX",
+        "Mkt_Cap": "33.883B",
+        "FD_Mkt_Cap": "123.788B",
+        "LAST": "0.20",
+        "Avail_Coins": "173.411B",
+        "Total_Coins": "633.543B",
+        "Traded_Vol": "57.041M",
+        "Chg": "0.15%"
+    },
+    {
+        "Title": "USD Coin",
+        "Mkt_Cap": "26.996B",
+        "FD_Mkt_Cap": "26.996B",
+        "LAST": "1.00",
+        "Avail_Coins": "26.993B",
+        "Total_Coins": "26.993B",
+        "Traded_Vol": "2.796B",
+        "Chg": "0.00%"
+    },
+    {
+        "Title": "Polkadot",
+        "Mkt_Cap": "23.297B",
+        "FD_Mkt_Cap": "26.027B",
+        "LAST": "23.59",
+        "Avail_Coins": "987.579M",
+        "Total_Coins": "1.103B",
+        "Traded_Vol": "1.686B",
+        "Chg": "-1.43%"
+    },
+    {
+        "Title": "Solana",
+        "Mkt_Cap": "21.361B",
+        "FD_Mkt_Cap": "36.922B",
+        "LAST": "73.45",
+        "Avail_Coins": "290.803M",
+        "Total_Coins": "502.655M",
+        "Traded_Vol": "2.707B",
+        "Chg": "-1.73%"
+    },
+    {
+        "Title": "Uniswap",
+        "Mkt_Cap": "15.338B",
+        "FD_Mkt_Cap": "25.078B",
+        "LAST": "25.08",
+        "Avail_Coins": "611.618M",
+        "Total_Coins": "1.000B",
+        "Traded_Vol": "373.537M",
+        "Chg": "-1.74%"
+    },
+    {
+        "Title": "Bitcoin Cash",
+        "Mkt_Cap": "11.330B",
+        "FD_Mkt_Cap": "12.636B",
+        "LAST": "601.73",
+        "Avail_Coins": "18.829M",
+        "Total_Coins": "21.000M",
+        "Traded_Vol": "3.162B",
+        "Chg": "-1.05%"
+    },
+    {
+        "Title": "Litecoin",
+        "Mkt_Cap": "11.071B",
+        "FD_Mkt_Cap": "13.932B",
+        "LAST": "165.86",
+        "Avail_Coins": "66.753M",
+        "Total_Coins": "84.000M",
+        "Traded_Vol": "1.968B",
+        "Chg": "-1.13%"
+    },
+    {
+        "Title": "ChainLink",
+        "Mkt_Cap": "10.771B",
+        "FD_Mkt_Cap": "24.069B",
+        "LAST": "24.07",
+        "Avail_Coins": "447.510M",
+        "Total_Coins": "1.000B",
+        "Traded_Vol": "1.312B",
+        "Chg": "-1.24%"
+    },
+    {
+        "Title": "LUNA",
+        "Mkt_Cap": "10.708B",
+        "FD_Mkt_Cap": "26.376B",
+        "LAST": "26.52",
+        "Avail_Coins": "403.713M",
+        "Total_Coins": "994.415M",
+        "Traded_Vol": "1.024B",
+        "Chg": "-1.53%"
+    },
+    {
+        "Title": "Wrapped Bitcoin",
+        "Mkt_Cap": "9.204B",
+        "FD_Mkt_Cap": "9.204B",
+        "LAST": "46538.36",
+        "Avail_Coins": "197.774K",
+        "Total_Coins": "197.774K",
+        "Traded_Vol": "216.331M",
+        "Chg": "-0.66%"
+    },
+    {
+        "Title": "Polygon",
+        "Mkt_Cap": "8.792B",
+        "FD_Mkt_Cap": "13.573B",
+        "LAST": "1.36",
+        "Avail_Coins": "6.478B",
+        "Total_Coins": "10.000B",
+        "Traded_Vol": "909.980M",
+        "Chg": "-1.10%"
+    },
+    {
+        "Title": "Internet Computer",
+        "Mkt_Cap": "8.705B",
+        "FD_Mkt_Cap": "25.992B",
+        "LAST": "55.39",
+        "Avail_Coins": "157.140M",
+        "Total_Coins": "469.214M",
+        "Traded_Vol": "575.752M",
+        "Chg": "-2.05%"
+    },
+    {
+        "Title": "Stellar",
+        "Mkt_Cap": "7.792B",
+        "FD_Mkt_Cap": "16.519B",
+        "LAST": "0.33",
+        "Avail_Coins": "23.587B",
+        "Total_Coins": "50.002B",
+        "Traded_Vol": "604.823M",
+        "Chg": "-2.08%"
+    },
+    {
+        "Title": "Ethereum Classic",
+        "Mkt_Cap": "7.624B",
+        "FD_Mkt_Cap": "12.433B",
+        "LAST": "59.01",
+        "Avail_Coins": "129.209M",
+        "Total_Coins": "210.700M",
+        "Traded_Vol": "3.241B",
+        "Chg": "-1.22%"
+    },
+    {
+        "Title": "VeChain",
+        "Mkt_Cap": "7.419B",
+        "FD_Mkt_Cap": "10.002B",
+        "LAST": "0.12",
+        "Avail_Coins": "64.316B",
+        "Total_Coins": "86.713B",
+        "Traded_Vol": "956.230M",
+        "Chg": "-0.73%"
+    },
+    {
+        "Title": "Filecoin",
+        "Mkt_Cap": "7.124B",
+        "FD_Mkt_Cap": "7.124B",
+        "LAST": "71.53",
+        "Avail_Coins": "99.586M",
+        "Total_Coins": "99.586M",
+        "Traded_Vol": "746.757M",
+        "Chg": "-1.11%"
+    },
+    {
+        "Title": "Avalanche",
+        "Mkt_Cap": "7.081B",
+        "FD_Mkt_Cap": "29.268B",
+        "LAST": "40.65",
+        "Avail_Coins": "174.205M",
+        "Total_Coins": "720.000M",
+        "Traded_Vol": "1.206B",
+        "Chg": "-1.44%"
+    },
+    {
+        "Title": "Theta Token",
+        "Mkt_Cap": "6.367B",
+        "FD_Mkt_Cap": "6.367B",
+        "LAST": "6.37",
+        "Avail_Coins": "1.000B",
+        "Total_Coins": "1.000B",
+        "Traded_Vol": "319.440M",
+        "Chg": "-2.45%"
+    },
+    {
+        "Title": "Dai",
+        "Mkt_Cap": "6.063B",
+        "FD_Mkt_Cap": "6.063B",
+        "LAST": "1.00",
+        "Avail_Coins": "6.061B",
+        "Total_Coins": "6.061B",
+        "Traded_Vol": "399.188M",
+        "Chg": "-0.06%"
+    },
+    {
+        "Title": "TRON",
+        "Mkt_Cap": "5.866B",
+        "FD_Mkt_Cap": "8.255B",
+        "LAST": "0.08",
+        "Avail_Coins": "71.660B",
+        "Total_Coins": "100.851B",
+        "Traded_Vol": "1.220B",
+        "Chg": "-1.82%"
+    },
+    {
+        "Title": "PancakeSwap",
+        "Mkt_Cap": "5.276B",
+        "FD_Mkt_Cap": "5.276B",
+        "LAST": "24.61",
+        "Avail_Coins": "214.399M",
+        "Total_Coins": "214.399M",
+        "Traded_Vol": "655.536M",
+        "Chg": "-0.89%"
+    },
+    {
+        "Title": "Monero",
+        "Mkt_Cap": "5.162B",
+        "FD_Mkt_Cap": "5.162B",
+        "LAST": "287.09",
+        "Avail_Coins": "17.981M",
+        "Total_Coins": "17.981M",
+        "Traded_Vol": "269.234M",
+        "Chg": "-1.60%"
+    },
+    {
+        "Title": "Aave",
+        "Mkt_Cap": "4.540B",
+        "FD_Mkt_Cap": "5.525B",
+        "LAST": "345.34",
+        "Avail_Coins": "13.147M",
+        "Total_Coins": "16.000M",
+        "Traded_Vol": "361.566M",
+        "Chg": "-1.56%"
+    },
+    {
+        "Title": "EOS",
+        "Mkt_Cap": "4.456B",
+        "FD_Mkt_Cap": "4.811B",
+        "LAST": "4.66",
+        "Avail_Coins": "956.488M",
+        "Total_Coins": "1.033B",
+        "Traded_Vol": "1.621B",
+        "Chg": "-1.84%"
+    },
+    {
+        "Title": "FTX Token",
+        "Mkt_Cap": "4.274B",
+        "FD_Mkt_Cap": "15.954B",
+        "LAST": "45.30",
+        "Avail_Coins": "94.347M",
+        "Total_Coins": "352.170M",
+        "Traded_Vol": "233.974M",
+        "Chg": "-1.15%"
+    },
+    {
+        "Title": "Axie Infinity",
+        "Mkt_Cap": "4.176B",
+        "FD_Mkt_Cap": "18.510B",
+        "LAST": "68.56",
+        "Avail_Coins": "60.907M",
+        "Total_Coins": "270.000M",
+        "Traded_Vol": "600.797M",
+        "Chg": "-1.60%"
+    },
+    {
+        "Title": "The Graph",
+        "Mkt_Cap": "3.998B",
+        "FD_Mkt_Cap": "8.525B",
+        "LAST": "0.85",
+        "Avail_Coins": "4.716B",
+        "Total_Coins": "10.057B",
+        "Traded_Vol": "233.685M",
+        "Chg": "-1.94%"
+    },
+    {
+        "Title": "Klaytn",
+        "Mkt_Cap": "3.957B",
+        "FD_Mkt_Cap": "16.871B",
+        "LAST": "1.58",
+        "Avail_Coins": "2.499B",
+        "Total_Coins": "10.656B",
+        "Traded_Vol": "126.164M",
+        "Chg": "-0.68%"
+    },
+    {
+        "Title": "Cosmos",
+        "Mkt_Cap": "3.879B",
+        "FD_Mkt_Cap": "4.897B",
+        "LAST": "17.60",
+        "Avail_Coins": "220.380M",
+        "Total_Coins": "278.164M",
+        "Traded_Vol": "392.761M",
+        "Chg": "-1.92%"
+    },
+    {
+        "Title": "Tezos",
+        "Mkt_Cap": "3.682B",
+        "FD_Mkt_Cap": "3.810B",
+        "LAST": "4.30",
+        "Avail_Coins": "857.027M",
+        "Total_Coins": "886.868M",
+        "Traded_Vol": "723.364M",
+        "Chg": "-3.23%"
+    },
+    {
+        "Title": "Bitcoin BEP2",
+        "Mkt_Cap": "3.636B",
+        "FD_Mkt_Cap": "3.980B",
+        "LAST": "46544.24",
+        "Avail_Coins": "78.126K",
+        "Total_Coins": "85.501K",
+        "Traded_Vol": "54.443M",
+        "Chg": "-0.67%"
+    },
+    {
+        "Title": "NEO",
+        "Mkt_Cap": "3.530B",
+        "FD_Mkt_Cap": "5.005B",
+        "LAST": "50.05",
+        "Avail_Coins": "70.539M",
+        "Total_Coins": "100.000M",
+        "Traded_Vol": "563.148M",
+        "Chg": "-2.45%"
+    },
+    {
+        "Title": "Maker",
+        "Mkt_Cap": "3.522B",
+        "FD_Mkt_Cap": "3.572B",
+        "LAST": "3552.40",
+        "Avail_Coins": "991.328K",
+        "Total_Coins": "1.006M",
+        "Traded_Vol": "146.404M",
+        "Chg": "-2.79%"
+    },
+    {
+        "Title": "Algorand",
+        "Mkt_Cap": "3.372B",
+        "FD_Mkt_Cap": "9.772B",
+        "LAST": "0.98",
+        "Avail_Coins": "3.450B",
+        "Total_Coins": "10.000B",
+        "Traded_Vol": "170.620M",
+        "Chg": "-1.25%"
+    },
+    {
+        "Title": "Bitcoin SV",
+        "Mkt_Cap": "2.971B",
+        "FD_Mkt_Cap": "3.314B",
+        "LAST": "157.82",
+        "Avail_Coins": "18.826M",
+        "Total_Coins": "21.000M",
+        "Traded_Vol": "352.079M",
+        "Chg": "1.06%"
+    },
+    {
+        "Title": "UNUS SED LEO",
+        "Mkt_Cap": "2.812B",
+        "FD_Mkt_Cap": "2.904B",
+        "LAST": "2.95",
+        "Avail_Coins": "953.954M",
+        "Total_Coins": "985.240M",
+        "Traded_Vol": "3.164M",
+        "Chg": "0.12%"
+    },
+    {
+        "Title": "SHIBA INU",
+        "Mkt_Cap": "2.754B",
+        "FD_Mkt_Cap": "6.977B",
+        "LAST": "0.00",
+        "Avail_Coins": "394796.000B",
+        "Total_Coins": "1000000.000B",
+        "Traded_Vol": "324.147M",
+        "Chg": "6.36%"
+    },
+    {
+        "Title": "IOTA",
+        "Mkt_Cap": "2.636B",
+        "FD_Mkt_Cap": "2.636B",
+        "LAST": "0.95",
+        "Avail_Coins": "2.780B",
+        "Total_Coins": "2.780B",
+        "Traded_Vol": "67.836M",
+        "Chg": "-2.41%"
+    },
+    {
+        "Title": "BitTorrent",
+        "Mkt_Cap": "2.543B",
+        "FD_Mkt_Cap": "3.815B",
+        "LAST": "0.00",
+        "Avail_Coins": "659.953B",
+        "Total_Coins": "990.000B",
+        "Traded_Vol": "445.200M",
+        "Chg": "-3.44%"
+    },
+    {
+        "Title": "Elrond",
+        "Mkt_Cap": "2.542B",
+        "FD_Mkt_Cap": "4.126B",
+        "LAST": "131.35",
+        "Avail_Coins": "19.353M",
+        "Total_Coins": "31.416M",
+        "Traded_Vol": "95.291M",
+        "Chg": "-2.49%"
+    },
+    {
+        "Title": "Amp",
+        "Mkt_Cap": "2.538B",
+        "FD_Mkt_Cap": "5.562B",
+        "LAST": "0.06",
+        "Avail_Coins": "42.228B",
+        "Total_Coins": "92.548B",
+        "Traded_Vol": "41.845M",
+        "Chg": "-0.15%"
+    },
+    {
+        "Title": "Waves",
+        "Mkt_Cap": "2.392B",
+        "FD_Mkt_Cap": "2.392B",
+        "LAST": "22.57",
+        "Avail_Coins": "106.005M",
+        "Total_Coins": "106.005M",
+        "Traded_Vol": "201.182M",
+        "Chg": "-1.63%"
+    },
+    {
+        "Title": "Dash",
+        "Mkt_Cap": "2.350B",
+        "FD_Mkt_Cap": "4.312B",
+        "LAST": "228.14",
+        "Avail_Coins": "10.298M",
+        "Total_Coins": "18.900M",
+        "Traded_Vol": "407.844M",
+        "Chg": "-1.77%"
+    },
+    {
+        "Title": "TerraUSD",
+        "Mkt_Cap": "2.333B",
+        "FD_Mkt_Cap": "2.333B",
+        "LAST": "1.00",
+        "Avail_Coins": "2.333B",
+        "Total_Coins": "2.333B",
+        "Traded_Vol": "64.203M",
+        "Chg": "0.00%"
+    },
+    {
+        "Title": "Kusama",
+        "Mkt_Cap": "2.315B",
+        "FD_Mkt_Cap": "2.638B",
+        "LAST": "273.32",
+        "Avail_Coins": "8.470M",
+        "Total_Coins": "9.651M",
+        "Traded_Vol": "218.066M",
+        "Chg": "-1.56%"
+    },
+    {
+        "Title": "Decred",
+        "Mkt_Cap": "2.276B",
+        "FD_Mkt_Cap": "3.607B",
+        "LAST": "171.75",
+        "Avail_Coins": "13.253M",
+        "Total_Coins": "21.000M",
+        "Traded_Vol": "18.432M",
+        "Chg": "-2.83%"
+    },
+    {
+        "Title": "Creditcoin",
+        "Mkt_Cap": "2.258B",
+        "FD_Mkt_Cap": "7.992B",
+        "LAST": "4.00",
+        "Avail_Coins": "564.971M",
+        "Total_Coins": "2.000B",
+        "Traded_Vol": "11.276M",
+        "Chg": "-1.02%"
+    },
+    {
+        "Title": "Quant",
+        "Mkt_Cap": "2.257B",
+        "FD_Mkt_Cap": "2.732B",
+        "LAST": "186.98",
+        "Avail_Coins": "12.073M",
+        "Total_Coins": "14.612M",
+        "Traded_Vol": "44.431M",
+        "Chg": "-4.29%"
+    },
+    {
+        "Title": "Huobi Token",
+        "Mkt_Cap": "2.198B",
+        "FD_Mkt_Cap": "6.617B",
+        "LAST": "13.23",
+        "Avail_Coins": "166.100M",
+        "Total_Coins": "500.000M",
+        "Traded_Vol": "210.306M",
+        "Chg": "-1.90%"
+    },
+    {
+        "Title": "Hedera Hashgraph",
+        "Mkt_Cap": "2.196B",
+        "FD_Mkt_Cap": "11.600B",
+        "LAST": "0.23",
+        "Avail_Coins": "9.467B",
+        "Total_Coins": "50.000B",
+        "Traded_Vol": "272.014M",
+        "Chg": "-2.52%"
+    },
+    {
+        "Title": "Compound",
+        "Mkt_Cap": "2.176B",
+        "FD_Mkt_Cap": "3.963B",
+        "LAST": "396.27",
+        "Avail_Coins": "5.491M",
+        "Total_Coins": "10.000M",
+        "Traded_Vol": "151.289M",
+        "Chg": "-1.99%"
+    },
+    {
+        "Title": "THORChain",
+        "Mkt_Cap": "2.090B",
+        "FD_Mkt_Cap": "4.674B",
+        "LAST": "9.35",
+        "Avail_Coins": "223.556M",
+        "Total_Coins": "500.000M",
+        "Traded_Vol": "135.964M",
+        "Chg": "-1.42%"
+    },
+    {
+        "Title": "NEAR Protocol",
+        "Mkt_Cap": "2.068B",
+        "FD_Mkt_Cap": "4.680B",
+        "LAST": "4.68",
+        "Avail_Coins": "441.833M",
+        "Total_Coins": "1.000B",
+        "Traded_Vol": "200.710M",
+        "Chg": "-3.96%"
+    },
+    {
+        "Title": "Chiliz",
+        "Mkt_Cap": "2.048B",
+        "FD_Mkt_Cap": "3.088B",
+        "LAST": "0.35",
+        "Avail_Coins": "5.895B",
+        "Total_Coins": "8.889B",
+        "Traded_Vol": "455.480M",
+        "Chg": "-2.94%"
+    },
+    {
+        "Title": "Helium",
+        "Mkt_Cap": "1.932B",
+        "FD_Mkt_Cap": "4.470B",
+        "LAST": "20.05",
+        "Avail_Coins": "96.392M",
+        "Total_Coins": "223.000M",
+        "Traded_Vol": "41.733M",
+        "Chg": "-2.54%"
+    },
+    {
+        "Title": "Zcash",
+        "Mkt_Cap": "1.761B",
+        "FD_Mkt_Cap": "2.956B",
+        "LAST": "140.75",
+        "Avail_Coins": "12.515M",
+        "Total_Coins": "21.000M",
+        "Traded_Vol": "373.606M",
+        "Chg": "-2.24%"
+    },
+    {
+        "Title": "Holo",
+        "Mkt_Cap": "1.702B",
+        "FD_Mkt_Cap": "1.750B",
+        "LAST": "0.01",
+        "Avail_Coins": "172.794B",
+        "Total_Coins": "177.619B",
+        "Traded_Vol": "165.102M",
+        "Chg": "-2.01%"
+    },
+    {
+        "Title": "XinFin Network",
+        "Mkt_Cap": "1.701B",
+        "FD_Mkt_Cap": "5.216B",
+        "LAST": "0.14",
+        "Avail_Coins": "12.291B",
+        "Total_Coins": "37.691B",
+        "Traded_Vol": "14.720M",
+        "Chg": "-0.82%"
+    },
+    {
+        "Title": "Theta Fuel",
+        "Mkt_Cap": "1.674B",
+        "FD_Mkt_Cap": "1.674B",
+        "LAST": "0.32",
+        "Avail_Coins": "5.301B",
+        "Total_Coins": "5.301B",
+        "Traded_Vol": "64.748M",
+        "Chg": "-0.88%"
+    },
+    {
+        "Title": "Stacks",
+        "Mkt_Cap": "1.610B",
+        "FD_Mkt_Cap": "2.406B",
+        "LAST": "1.32",
+        "Avail_Coins": "1.217B",
+        "Total_Coins": "1.818B",
+        "Traded_Vol": "39.031M",
+        "Chg": "-3.01%"
+    },
+    {
+        "Title": "Decentraland",
+        "Mkt_Cap": "1.545B",
+        "FD_Mkt_Cap": "1.888B",
+        "LAST": "0.86",
+        "Avail_Coins": "1.795B",
+        "Total_Coins": "2.194B",
+        "Traded_Vol": "416.287M",
+        "Chg": "-3.28%"
+    },
+    {
+        "Title": "Enjin Coin",
+        "Mkt_Cap": "1.506B",
+        "FD_Mkt_Cap": "1.805B",
+        "LAST": "1.81",
+        "Avail_Coins": "834.331M",
+        "Total_Coins": "1.000B",
+        "Traded_Vol": "277.276M",
+        "Chg": "-2.44%"
+    },
+    {
+        "Title": "SushiSwap",
+        "Mkt_Cap": "1.442B",
+        "FD_Mkt_Cap": "2.832B",
+        "LAST": "11.33",
+        "Avail_Coins": "127.244M",
+        "Total_Coins": "250.000M",
+        "Traded_Vol": "317.524M",
+        "Chg": "-2.33%"
+    },
+    {
+        "Title": "eCash",
+        "Mkt_Cap": "1.401B",
+        "FD_Mkt_Cap": "1.563B",
+        "LAST": "0.00",
+        "Avail_Coins": "18822.786B",
+        "Total_Coins": "21000.000B",
+        "Traded_Vol": "14.859M",
+        "Chg": "-0.73%"
+    },
+    {
+        "Title": "TrueUSD",
+        "Mkt_Cap": "1.386B",
+        "FD_Mkt_Cap": "1.386B",
+        "LAST": "1.00",
+        "Avail_Coins": "1.387B",
+        "Total_Coins": "1.387B",
+        "Traded_Vol": "59.394M",
+        "Chg": "-0.04%"
+    },
+    {
+        "Title": "Celsius",
+        "Mkt_Cap": "1.341B",
+        "FD_Mkt_Cap": "3.905B",
+        "LAST": "5.61",
+        "Avail_Coins": "238.864M",
+        "Total_Coins": "695.658M",
+        "Traded_Vol": "6.625M",
+        "Chg": "-0.73%"
+    },
+    {
+        "Title": "yearn.finance",
+        "Mkt_Cap": "1.301B",
+        "FD_Mkt_Cap": "1.302B",
+        "LAST": "35520.04",
+        "Avail_Coins": "36.635K",
+        "Total_Coins": "36.666K",
+        "Traded_Vol": "190.632M",
+        "Chg": "-1.68%"
+    },
+    {
+        "Title": "Synthetix Network Token",
+        "Mkt_Cap": "1.286B",
+        "FD_Mkt_Cap": "2.379B",
+        "LAST": "11.20",
+        "Avail_Coins": "114.842M",
+        "Total_Coins": "212.424M",
+        "Traded_Vol": "120.272M",
+        "Chg": "-1.85%"
+    },
+    {
+        "Title": "Zilliqa",
+        "Mkt_Cap": "1.214B",
+        "FD_Mkt_Cap": "2.188B",
+        "LAST": "0.10",
+        "Avail_Coins": "11.657B",
+        "Total_Coins": "21.000B",
+        "Traded_Vol": "162.709M",
+        "Chg": "-1.61%"
+    },
+    {
+        "Title": "Telcoin",
+        "Mkt_Cap": "1.213B",
+        "FD_Mkt_Cap": "2.237B",
+        "LAST": "0.02",
+        "Avail_Coins": "54.227B",
+        "Total_Coins": "100.000B",
+        "Traded_Vol": "22.337M",
+        "Chg": "-0.82%"
+    },
+    {
+        "Title": "Flow (Dapper Labs)",
+        "Mkt_Cap": "1.212B",
+        "FD_Mkt_Cap": "28.544B",
+        "LAST": "21.24",
+        "Avail_Coins": "57.065M",
+        "Total_Coins": "1.344B",
+        "Traded_Vol": "160.350M",
+        "Chg": "-1.06%"
+    },
+    {
+        "Title": "Revain",
+        "Mkt_Cap": "1.163B",
+        "FD_Mkt_Cap": "1.163B",
+        "LAST": "0.01",
+        "Avail_Coins": "85.061B",
+        "Total_Coins": "85.061B",
+        "Traded_Vol": "2.877M",
+        "Chg": "-7.32%"
+    },
+    {
+        "Title": "Ravencoin",
+        "Mkt_Cap": "1.162B",
+        "FD_Mkt_Cap": "2.565B",
+        "LAST": "0.12",
+        "Avail_Coins": "9.515B",
+        "Total_Coins": "21.000B",
+        "Traded_Vol": "75.031M",
+        "Chg": "-2.30%"
+    },
+    {
+        "Title": "Basic Attention Token",
+        "Mkt_Cap": "1.153B",
+        "FD_Mkt_Cap": "1.161B",
+        "LAST": "0.77",
+        "Avail_Coins": "1.490B",
+        "Total_Coins": "1.500B",
+        "Traded_Vol": "335.541M",
+        "Chg": "-2.43%"
+    },
+    {
+        "Title": "Qtum",
+        "Mkt_Cap": "1.133B",
+        "FD_Mkt_Cap": "1.238B",
+        "LAST": "11.48",
+        "Avail_Coins": "98.647M",
+        "Total_Coins": "107.822M",
+        "Traded_Vol": "352.375M",
+        "Chg": "-3.88%"
+    },
+    {
+        "Title": "Bitcoin Gold",
+        "Mkt_Cap": "1.095B",
+        "FD_Mkt_Cap": "1.313B",
+        "LAST": "62.51",
+        "Avail_Coins": "17.514M",
+        "Total_Coins": "21.000M",
+        "Traded_Vol": "58.901M",
+        "Chg": "-0.80%"
+    },
+    {
+        "Title": "Fantom",
+        "Mkt_Cap": "1.076B",
+        "FD_Mkt_Cap": "1.342B",
+        "LAST": "0.42",
+        "Avail_Coins": "2.545B",
+        "Total_Coins": "3.175B",
+        "Traded_Vol": "119.670M",
+        "Chg": "-2.55%"
+    },
+    {
+        "Title": "Nexo",
+        "Mkt_Cap": "1.016B",
+        "FD_Mkt_Cap": "1.815B",
+        "LAST": "1.81",
+        "Avail_Coins": "560.000M",
+        "Total_Coins": "1.000B",
+        "Traded_Vol": "11.800M",
+        "Chg": "-1.87%"
+    },
+    {
+        "Title": "BigONE Token",
+        "Mkt_Cap": "1.006B",
+        "FD_Mkt_Cap": "1.213B",
+        "LAST": "0.10",
+        "Avail_Coins": "10.449B",
+        "Total_Coins": "12.600B",
+        "Traded_Vol": "51.267M",
+        "Chg": "-3.07%"
+    },
+    {
+        "Title": "Perpetual Protocol",
+        "Mkt_Cap": "985.451M",
+        "FD_Mkt_Cap": "2.505B",
+        "LAST": "16.70",
+        "Avail_Coins": "59.019M",
+        "Total_Coins": "150.000M",
+        "Traded_Vol": "71.805M",
+        "Chg": "-0.74%"
+    },
+    {
+        "Title": "Siacoin",
+        "Mkt_Cap": "978.565M",
+        "FD_Mkt_Cap": "978.565M",
+        "LAST": "0.02",
+        "Avail_Coins": "48.636B",
+        "Total_Coins": "48.636B",
+        "Traded_Vol": "131.140M",
+        "Chg": "-4.42%"
+    },
+    {
+        "Title": "Celo",
+        "Mkt_Cap": "962.174M",
+        "FD_Mkt_Cap": "3.356B",
+        "LAST": "3.36",
+        "Avail_Coins": "286.703M",
+        "Total_Coins": "1.000B",
+        "Traded_Vol": "112.201M",
+        "Chg": "-4.88%"
+    },
+    {
+        "Title": "Bancor",
+        "Mkt_Cap": "957.568M",
+        "FD_Mkt_Cap": "957.568M",
+        "LAST": "4.14",
+        "Avail_Coins": "231.409M",
+        "Total_Coins": "231.409M",
+        "Traded_Vol": "143.793M",
+        "Chg": "-1.40%"
+    },
+    {
+        "Title": "Paxos Standard Token",
+        "Mkt_Cap": "944.697M",
+        "FD_Mkt_Cap": "944.697M",
+        "LAST": "1.00",
+        "Avail_Coins": "945.643M",
+        "Total_Coins": "945.643M",
+        "Traded_Vol": "78.754M",
+        "Chg": "0.00%"
+    },
+    {
+        "Title": "Mdex",
+        "Mkt_Cap": "939.265M",
+        "FD_Mkt_Cap": "1.444B",
+        "LAST": "1.44",
+        "Avail_Coins": "650.393M",
+        "Total_Coins": "1.000B",
+        "Traded_Vol": "76.703M",
+        "Chg": "-1.96%"
+    },
+    {
+        "Title": "Audius",
+        "Mkt_Cap": "936.548M",
+        "FD_Mkt_Cap": "2.442B",
+        "LAST": "2.34",
+        "Avail_Coins": "400.244M",
+        "Total_Coins": "1.044B",
+        "Traded_Vol": "72.063M",
+        "Chg": "-3.62%"
+    },
+    {
+        "Title": "DigiByte",
+        "Mkt_Cap": "906.955M",
+        "FD_Mkt_Cap": "1.303B",
+        "LAST": "0.06",
+        "Avail_Coins": "14.614B",
+        "Total_Coins": "21.000B",
+        "Traded_Vol": "31.767M",
+        "Chg": "-3.45%"
+    },
+    {
+        "Title": "SwissBorg",
+        "Mkt_Cap": "905.480M",
+        "FD_Mkt_Cap": "905.480M",
+        "LAST": "0.91",
+        "Avail_Coins": "1.000B",
+        "Total_Coins": "1.000B",
+        "Traded_Vol": "5.159M",
+        "Chg": "-0.68%"
+    },
+    {
+        "Title": "Horizen",
+        "Mkt_Cap": "893.296M",
+        "FD_Mkt_Cap": "1.638B",
+        "LAST": "78.00",
+        "Avail_Coins": "11.453M",
+        "Total_Coins": "21.000M",
+        "Traded_Vol": "69.225M",
+        "Chg": "-3.54%"
+    },
+    {
+        "Title": "Ontology",
+        "Mkt_Cap": "892.325M",
+        "FD_Mkt_Cap": "1.020B",
+        "LAST": "1.02",
+        "Avail_Coins": "875.250M",
+        "Total_Coins": "1.000B",
+        "Traded_Vol": "166.427M",
+        "Chg": "-1.67%"
+    },
+    {
+        "Title": "Coin98",
+        "Mkt_Cap": "877.888M",
+        "FD_Mkt_Cap": "4.745B",
+        "LAST": "4.75",
+        "Avail_Coins": "185.000M",
+        "Total_Coins": "1.000B",
+        "Traded_Vol": "924.064M",
+        "Chg": "-3.09%"
+    },
+    {
+        "Title": "0x",
+        "Mkt_Cap": "866.552M",
+        "FD_Mkt_Cap": "1.025B",
+        "LAST": "1.03",
+        "Avail_Coins": "845.342M",
+        "Total_Coins": "1.000B",
+        "Traded_Vol": "99.729M",
+        "Chg": "-2.02%"
+    },
+    {
+        "Title": "Curve DAO Token",
+        "Mkt_Cap": "859.635M",
+        "FD_Mkt_Cap": "6.678B",
+        "LAST": "2.02",
+        "Avail_Coins": "425.181M",
+        "Total_Coins": "3.303B",
+        "Traded_Vol": "147.097M",
+        "Chg": "-1.34%"
+    },
+    {
+        "Title": "Arweave",
+        "Mkt_Cap": "850.473M",
+        "FD_Mkt_Cap": "1.681B",
+        "LAST": "25.47",
+        "Avail_Coins": "33.395M",
+        "Total_Coins": "66.000M",
+        "Traded_Vol": "41.957M",
+        "Chg": "-0.68%"
+    },
+    {
+        "Title": "ICON",
+        "Mkt_Cap": "845.646M",
+        "FD_Mkt_Cap": "1.026B",
+        "LAST": "1.28",
+        "Avail_Coins": "659.480M",
+        "Total_Coins": "800.460M",
+        "Traded_Vol": "70.922M",
+        "Chg": "-2.98%"
+    },
+    {
+        "Title": "Nano",
+        "Mkt_Cap": "828.442M",
+        "FD_Mkt_Cap": "828.442M",
+        "LAST": "6.22",
+        "Avail_Coins": "133.248M",
+        "Total_Coins": "133.248M",
+        "Traded_Vol": "60.065M",
+        "Chg": "-0.60%"
+    },
+    {
+        "Title": "DeFiChain",
+        "Mkt_Cap": "817.458M",
+        "FD_Mkt_Cap": "3.264B",
+        "LAST": "2.72",
+        "Avail_Coins": "300.512M",
+        "Total_Coins": "1.200B",
+        "Traded_Vol": "3.093M",
+        "Chg": "-0.68%"
+    },
+    {
+        "Title": "OmiseGO",
+        "Mkt_Cap": "817.317M",
+        "FD_Mkt_Cap": "817.317M",
+        "LAST": "5.83",
+        "Avail_Coins": "140.245M",
+        "Total_Coins": "140.245M",
+        "Traded_Vol": "388.829M",
+        "Chg": "-2.68%"
+    },
+    {
+        "Title": "WhiteCoin",
+        "Mkt_Cap": "787.999M",
+        "FD_Mkt_Cap": "1.068B",
+        "LAST": "1.07",
+        "Avail_Coins": "738.085M",
+        "Total_Coins": "1.000B",
+        "Traded_Vol": "26.052M",
+        "Chg": "-1.49%"
+    },
+    {
+        "Title": "Bitcoin Cash ABC",
+        "Mkt_Cap": "777.268M",
+        "FD_Mkt_Cap": "878.840M",
+        "LAST": "41.85",
+        "Avail_Coins": "18.573M",
+        "Total_Coins": "21.000M",
+        "Traded_Vol": "163.707M",
+        "Chg": "-0.68%"
+    },
+    {
+        "Title": "Voyager Token",
+        "Mkt_Cap": "774.705M",
+        "FD_Mkt_Cap": "774.705M",
+        "LAST": "3.49",
+        "Avail_Coins": "222.295M",
+        "Total_Coins": "222.295M",
+        "Traded_Vol": "4.685M",
+        "Chg": "-1.89%"
+    },
+    {
+        "Title": "Ankr",
+        "Mkt_Cap": "769.835M",
+        "FD_Mkt_Cap": "1.005B",
+        "LAST": "0.10",
+        "Avail_Coins": "7.663B",
+        "Total_Coins": "10.000B",
+        "Traded_Vol": "206.272M",
+        "Chg": "-3.42%"
+    },
+    {
+        "Title": "UMA",
+        "Mkt_Cap": "744.749M",
+        "FD_Mkt_Cap": "1.204B",
+        "LAST": "11.90",
+        "Avail_Coins": "62.598M",
+        "Total_Coins": "101.173M",
+        "Traded_Vol": "50.698M",
+        "Chg": "-1.61%"
+    },
+    {
+        "Title": "Symbol",
+        "Mkt_Cap": "742.434M",
+        "FD_Mkt_Cap": "1.218B",
+        "LAST": "0.14",
+        "Avail_Coins": "5.485B",
+        "Total_Coins": "9.000B",
+        "Traded_Vol": "3.394M",
+        "Chg": "-0.82%"
+    },
+    {
+        "Title": "Pirate Chain",
+        "Mkt_Cap": "736.308M",
+        "FD_Mkt_Cap": "791.426M",
+        "LAST": "3.96",
+        "Avail_Coins": "186.071M",
+        "Total_Coins": "200.000M",
+        "Traded_Vol": "1.434M",
+        "Chg": "-0.82%"
+    },
+    {
+        "Title": "Parachute",
+        "Mkt_Cap": "714.238M",
+        "FD_Mkt_Cap": "1.130B",
+        "LAST": "1.13",
+        "Avail_Coins": "631.844M",
+        "Total_Coins": "999.628M",
+        "Traded_Vol": "98.813K",
+        "Chg": "-0.68%"
+    },
+    {
+        "Title": "IOStoken",
+        "Mkt_Cap": "703.888M",
+        "FD_Mkt_Cap": "3.850B",
+        "LAST": "0.04",
+        "Avail_Coins": "16.454B",
+        "Total_Coins": "90.000B",
+        "Traded_Vol": "456.031M",
+        "Chg": "-3.89%"
+    },
+    {
+        "Title": "Swipe",
+        "Mkt_Cap": "689.337M",
+        "FD_Mkt_Cap": "881.542M",
+        "LAST": "3.68",
+        "Avail_Coins": "187.369M",
+        "Total_Coins": "239.612M",
+        "Traded_Vol": "161.948M",
+        "Chg": "-1.41%"
+    },
+    {
+        "Title": "IoTeX",
+        "Mkt_Cap": "687.654M",
+        "FD_Mkt_Cap": "720.752M",
+        "LAST": "0.07",
+        "Avail_Coins": "9.541B",
+        "Total_Coins": "10.000B",
+        "Traded_Vol": "101.211M",
+        "Chg": "-1.37%"
+    },
+    {
+        "Title": "Loopring",
+        "Mkt_Cap": "657.694M",
+        "FD_Mkt_Cap": "684.682M",
+        "LAST": "0.50",
+        "Avail_Coins": "1.320B",
+        "Total_Coins": "1.375B",
+        "Traded_Vol": "333.449M",
+        "Chg": "1.15%"
+    },
+    {
+        "Title": "WAX",
+        "Mkt_Cap": "653.858M",
+        "FD_Mkt_Cap": "1.439B",
+        "LAST": "0.38",
+        "Avail_Coins": "1.716B",
+        "Total_Coins": "3.776B",
+        "Traded_Vol": "823.849M",
+        "Chg": "1.57%"
+    },
+    {
+        "Title": "renBTC",
+        "Mkt_Cap": "646.030M",
+        "FD_Mkt_Cap": "635.316M",
+        "LAST": "46380.23",
+        "Avail_Coins": "13.929K",
+        "Total_Coins": "13.698K",
+        "Traded_Vol": "7.346M",
+        "Chg": "-0.73%"
+    },
+    {
+        "Title": "Reserve Rights",
+        "Mkt_Cap": "642.681M",
+        "FD_Mkt_Cap": "4.884B",
+        "LAST": "0.05",
+        "Avail_Coins": "13.160B",
+        "Total_Coins": "100.000B",
+        "Traded_Vol": "146.476M",
+        "Chg": "-2.58%"
+    },
+    {
+        "Title": "Kava",
+        "Mkt_Cap": "593.952M",
+        "FD_Mkt_Cap": "1.041B",
+        "LAST": "7.29",
+        "Avail_Coins": "81.443M",
+        "Total_Coins": "142.709M",
+        "Traded_Vol": "146.883M",
+        "Chg": "-4.45%"
+    },
+    {
+        "Title": "The Sandbox",
+        "Mkt_Cap": "582.842M",
+        "FD_Mkt_Cap": "1.975B",
+        "LAST": "0.66",
+        "Avail_Coins": "885.440M",
+        "Total_Coins": "3.000B",
+        "Traded_Vol": "1.189B",
+        "Chg": "-2.61%"
+    },
+    {
+        "Title": "Dent",
+        "Mkt_Cap": "555.351M",
+        "FD_Mkt_Cap": "560.916M",
+        "LAST": "0.01",
+        "Avail_Coins": "99.008B",
+        "Total_Coins": "100.000B",
+        "Traded_Vol": "92.704M",
+        "Chg": "-6.01%"
+    },
+    {
+        "Title": "Mina",
+        "Mkt_Cap": "543.551M",
+        "FD_Mkt_Cap": "2.215B",
+        "LAST": "2.69",
+        "Avail_Coins": "202.191M",
+        "Total_Coins": "824.105M",
+        "Traded_Vol": "64.155M",
+        "Chg": "-0.73%"
+    },
+    {
+        "Title": "Ren",
+        "Mkt_Cap": "527.060M",
+        "FD_Mkt_Cap": "528.242M",
+        "LAST": "0.53",
+        "Avail_Coins": "997.763M",
+        "Total_Coins": "1.000B",
+        "Traded_Vol": "43.005M",
+        "Chg": "-2.21%"
+    },
+    {
+        "Title": "1inch",
+        "Mkt_Cap": "518.423M",
+        "FD_Mkt_Cap": "4.312B",
+        "LAST": "2.87",
+        "Avail_Coins": "180.362M",
+        "Total_Coins": "1.500B",
+        "Traded_Vol": "323.091M",
+        "Chg": "-1.45%"
+    },
+    {
+        "Title": "Constellation",
+        "Mkt_Cap": "505.281M",
+        "FD_Mkt_Cap": "1.480B",
+        "LAST": "0.40",
+        "Avail_Coins": "1.267B",
+        "Total_Coins": "3.712B",
+        "Traded_Vol": "16.468M",
+        "Chg": "-3.00%"
+    },
+    {
+        "Title": "Lisk",
+        "Mkt_Cap": "502.764M",
+        "FD_Mkt_Cap": "564.851M",
+        "LAST": "3.90",
+        "Avail_Coins": "128.901M",
+        "Total_Coins": "144.820M",
+        "Traded_Vol": "27.271M",
+        "Chg": "-2.32%"
+    },
+    {
+        "Title": "Ocean Protocol",
+        "Mkt_Cap": "491.491M",
+        "FD_Mkt_Cap": "1.130B",
+        "LAST": "0.80",
+        "Avail_Coins": "613.099M",
+        "Total_Coins": "1.410B",
+        "Traded_Vol": "49.872M",
+        "Chg": "-2.04%"
+    },
+    {
+        "Title": "BakeryToken",
+        "Mkt_Cap": "470.627M",
+        "FD_Mkt_Cap": "771.240M",
+        "LAST": "2.68",
+        "Avail_Coins": "175.459M",
+        "Total_Coins": "287.534M",
+        "Traded_Vol": "205.176M",
+        "Chg": "-0.73%"
+    },
+    {
+        "Title": "Neutrino USD",
+        "Mkt_Cap": "469.149M",
+        "FD_Mkt_Cap": "469.150M",
+        "LAST": "0.99",
+        "Avail_Coins": "474.123M",
+        "Total_Coins": "474.124M",
+        "Traded_Vol": "12.377M",
+        "Chg": "0.22%"
+    },
+    {
+        "Title": "MOBOX",
+        "Mkt_Cap": "466.031M",
+        "FD_Mkt_Cap": "9.416B",
+        "LAST": "9.42",
+        "Avail_Coins": "49.493M",
+        "Total_Coins": "1.000B",
+        "Traded_Vol": "1.167B",
+        "Chg": "-1.99%"
+    },
+    {
+        "Title": "Storj",
+        "Mkt_Cap": "454.576M",
+        "FD_Mkt_Cap": "604.435M",
+        "LAST": "1.42",
+        "Avail_Coins": "319.629M",
+        "Total_Coins": "425.000M",
+        "Traded_Vol": "305.458M",
+        "Chg": "6.65%"
+    },
+    {
+        "Title": "Pundi X[new]",
+        "Mkt_Cap": "453.864M",
+        "FD_Mkt_Cap": "453.925M",
+        "LAST": "1.76",
+        "Avail_Coins": "258.492M",
+        "Total_Coins": "258.527M",
+        "Traded_Vol": "103.584M",
+        "Chg": "-0.73%"
+    },
+    {
+        "Title": "WazirX",
+        "Mkt_Cap": "449.049M",
+        "FD_Mkt_Cap": "1.383B",
+        "LAST": "1.41",
+        "Avail_Coins": "317.592M",
+        "Total_Coins": "978.213M",
+        "Traded_Vol": "47.161M",
+        "Chg": "-0.53%"
+    },
+    {
+        "Title": "Gnosis",
+        "Mkt_Cap": "448.972M",
+        "FD_Mkt_Cap": "2.984B",
+        "LAST": "298.40",
+        "Avail_Coins": "1.505M",
+        "Total_Coins": "10.000M",
+        "Traded_Vol": "9.729M",
+        "Chg": "1.92%"
+    },
+    {
+        "Title": "Unibright",
+        "Mkt_Cap": "445.504M",
+        "FD_Mkt_Cap": "445.504M",
+        "LAST": "2.97",
+        "Avail_Coins": "150.000M",
+        "Total_Coins": "150.000M",
+        "Traded_Vol": "5.689M",
+        "Chg": "-0.83%"
+    },
+    {
+        "Title": "Bitcoin Diamond",
+        "Mkt_Cap": "443.321M",
+        "FD_Mkt_Cap": "499.201M",
+        "LAST": "2.38",
+        "Avail_Coins": "186.493M",
+        "Total_Coins": "210.000M",
+        "Traded_Vol": "7.101M",
+        "Chg": "-1.27%"
+    },
+    {
+        "Title": "Golem",
+        "Mkt_Cap": "433.943M",
+        "FD_Mkt_Cap": "433.943M",
+        "LAST": "0.43",
+        "Avail_Coins": "1.000B",
+        "Total_Coins": "1.000B",
+        "Traded_Vol": "10.957M",
+        "Chg": "-2.30%"
+    },
+    {
+        "Title": "MyNeighborAlice",
+        "Mkt_Cap": "430.357M",
+        "FD_Mkt_Cap": "1.871B",
+        "LAST": "18.71",
+        "Avail_Coins": "23.000M",
+        "Total_Coins": "100.000M",
+        "Traded_Vol": "420.296M",
+        "Chg": "-2.93%"
+    },
+    {
+        "Title": "Verge",
+        "Mkt_Cap": "429.022M",
+        "FD_Mkt_Cap": "431.087M",
+        "LAST": "0.03",
+        "Avail_Coins": "16.476B",
+        "Total_Coins": "16.555B",
+        "Traded_Vol": "31.929M",
+        "Chg": "-0.68%"
+    },
+    {
+        "Title": "Alpha Finance Lab",
+        "Mkt_Cap": "423.518M",
+        "FD_Mkt_Cap": "1.042B",
+        "LAST": "1.04",
+        "Avail_Coins": "406.330M",
+        "Total_Coins": "1.000B",
+        "Traded_Vol": "83.759M",
+        "Chg": "-2.21%"
+    },
+    {
+        "Title": "Numeraire",
+        "Mkt_Cap": "418.727M",
+        "FD_Mkt_Cap": "451.649M",
+        "LAST": "41.06",
+        "Avail_Coins": "10.198M",
+        "Total_Coins": "11.000M",
+        "Traded_Vol": "30.318M",
+        "Chg": "-1.20%"
+    },
+    {
+        "Title": "Tribe",
+        "Mkt_Cap": "396.072M",
+        "FD_Mkt_Cap": "873.466M",
+        "LAST": "0.87",
+        "Avail_Coins": "453.449M",
+        "Total_Coins": "1.000B",
+        "Traded_Vol": "105.439M",
+        "Chg": "-0.47%"
+    },
+    {
+        "Title": "Livepeer",
+        "Mkt_Cap": "388.334M",
+        "FD_Mkt_Cap": "420.302M",
+        "LAST": "18.35",
+        "Avail_Coins": "21.165M",
+        "Total_Coins": "22.907M",
+        "Traded_Vol": "21.558M",
+        "Chg": "-1.72%"
+    },
+    {
+        "Title": "VeThor Token",
+        "Mkt_Cap": "385.208M",
+        "FD_Mkt_Cap": "385.208M",
+        "LAST": "0.01",
+        "Avail_Coins": "39.261B",
+        "Total_Coins": "39.261B",
+        "Traded_Vol": "39.614M",
+        "Chg": "-0.73%"
+    },
+    {
+        "Title": "Nervos Network",
+        "Mkt_Cap": "384.825M",
+        "FD_Mkt_Cap": "466.250M",
+        "LAST": "0.01",
+        "Avail_Coins": "27.586B",
+        "Total_Coins": "33.423B",
+        "Traded_Vol": "24.762M",
+        "Chg": "-0.68%"
+    },
+    {
+        "Title": "Fetch.ai",
+        "Mkt_Cap": "377.475M",
+        "FD_Mkt_Cap": "583.326M",
+        "LAST": "0.51",
+        "Avail_Coins": "746.114M",
+        "Total_Coins": "1.153B",
+        "Traded_Vol": "43.816M",
+        "Chg": "-1.92%"
+    },
+    {
+        "Title": "Bitpanda Ecosystem Token",
+        "Mkt_Cap": "375.677M",
+        "FD_Mkt_Cap": "992.873M",
+        "LAST": "0.99",
+        "Avail_Coins": "378.373M",
+        "Total_Coins": "1.000B",
+        "Traded_Vol": "95.945K",
+        "Chg": "-0.73%"
+    },
+    {
+        "Title": "SKALE Network",
+        "Mkt_Cap": "371.820M",
+        "FD_Mkt_Cap": "2.146B",
+        "LAST": "0.31",
+        "Avail_Coins": "1.213B",
+        "Total_Coins": "7.000B",
+        "Traded_Vol": "50.080M",
+        "Chg": "-1.77%"
+    }
+    ]

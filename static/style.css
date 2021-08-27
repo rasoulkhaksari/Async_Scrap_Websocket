@@ -1,0 +1,17 @@
+body{
+    background-color:azure;
+}
+
+table{
+    width: 100%;
+}
+
+td{
+    background-color: #fff;
+    padding: 7px;
+}
+th{
+    background-color: dimgrey;
+    color: #fff;
+    padding: 14px;
+}

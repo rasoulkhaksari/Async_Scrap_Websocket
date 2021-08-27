@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Latest Cryptocurrency prices</title>
+    <link type="text/css" href="/static/style.css" rel="stylesheet"/>
+</head>
+
+<body>
+    <h1>Latest Cryptocurrency prices</h1>
+    <table>
+        <thead>
+            <tr>
+                <th>Title</th>
+                <th>Mkt Cap</th>
+                <th>FD Mkt Cap</th>
+                <th>LAST</th>
+                <th>Avail Coins</th>
+                <th>Total Coins</th>
+                <th>Traded Vol</th>
+                <th>Chg %</th>
+            </tr>
+        </thead>
+        <tbody id="result">
+        </tbody>
+    </table>
+</body>
+
+<script>
+
+    var ws = new WebSocket("ws://localhost:8000/ws");
+    ws.onmessage = function (event) {
+        let html =  "";
+        JSON.parse(event.data).forEach(crypto => {
+            html +=`<tr>
+                        <td>${crypto.Title}</td>
+                        <td>${crypto.Mkt_Cap}</td>
+                        <td>${crypto.FD_Mkt_Cap}</td>
+                        <td>${crypto.LAST}</td>
+                        <td>${crypto.Avail_Coins}</td>
+                        <td>${crypto.Total_Coins}</td>
+                        <td>${crypto.Traded_Vol}</td>
+                        <td>${crypto.Chg}</td>
+                    </tr>`;
+        });
+        
+        document.querySelector("#result").innerHTML=html;
+    };
+
+</script>
+
+</html>
